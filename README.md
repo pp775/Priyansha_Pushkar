@@ -1,27 +1,28 @@
-# 👋 Hi there, I'm Priyansha Pushkar
+# 👋 Hi, I'm Priyansha Pushkar
 
 🎓 Economist | 📊 Aspiring Data Analyst | 🧠 Lifelong Learner  
-🔍 Currently working at INFOMERICS Ratings  
-📚 Pursuing Data Analyst certification from IIT-Guwahati (via Simplilearn)  
-💡 Learning: Python, SQL, Excel, Tableau, Power BI, Generative AI  
+🔍 Economic Analyst @ INFOMERICS Ratings  
+📚 Learning Data Analytics at IIT-Guwahati (via Simplilearn)  
+💡 Exploring Python, SQL, Power BI, Tableau, R, and Generative AI  
 
 ---
 
-### 🔨 Tools & Skills:
+### 🧰 Tools & Tech:
 - **Languages:** Python, SQL, R  
-- **Data Tools:** Excel, Tableau, Power BI, Jupyter Notebook  
-- **Learning Platforms:** Kaggle, GitHub, Simplilearn  
-- **Interests:** Data storytelling, economics, sustainability, dashboards, industry outlooks  
+- **Tools:** Excel, Tableau, Power BI, Jupyter  
+- **Topics:** Data Cleaning, EDA, Dashboarding, Industry Analysis
 
 ---
 
-### 📈 Projects in Progress:
-Stay tuned for:
-- Netflix EDA in Python  
-- Sales Insights using SQL  
-- Tourism Dashboard in Power BI  
-- COVID Impact on Indian Economy – Analysis Series  
+### 📁 Projects:
+- `Netflix EDA` – Exploring content trends using Python  
+- `Sales Insights with SQL` – Querying sales DB for patterns  
+- `Power BI Dashboard: Tourism in India` – Interactive storytelling  
+- More coming soon!
 
 ---
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/priyansha-pushkar-520216147/?trk=opento_sprofile_topcard) 
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/priyansha-pushkar-520216147/?trk=opento_sprofile_topcard)   
+[GitHub](https://github.com/pp775)
+
+
